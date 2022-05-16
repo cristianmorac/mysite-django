@@ -1,0 +1,8 @@
+db.sqlite3
+manage.py
+__pycache__
+__init__.py
+asgi.py
+wsgi.py
+migrations
+fondo.jpeg
